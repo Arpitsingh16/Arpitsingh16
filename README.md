@@ -1,4 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
+<br><br>
 
 <h1 align="left">👋 Hi, I'm <a href="https://arpitsingh16.github.io/Portfolio/" target="_blank"> Arpit Singh </a></h1>
 <p align="left">A passionate Full Stack Developer with a strong foundation in Computer Science and a keen to learn new tech.</p>

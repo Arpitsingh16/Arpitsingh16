@@ -55,7 +55,6 @@
 
         
 
-<details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -124,7 +123,6 @@
     <a href="#"><img alt="Anydesk" src="https://img.shields.io/badge/AnyDesk-EF443B?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Belarc" src="https://img.shields.io/badge/Belarc%20Advisor-3978D7?logo=git&logoColor=white"></a>
   </p>
-</details>
 
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
@@ -219,22 +217,7 @@
 
 
 
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td width="60%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arpitsingh16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Arpit Singh GitHub Stats" />
-    </td>
-    <td width="40%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arpitsingh16&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Arpit Singh Top Languages" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitsingh16&theme=highcontrast" alt="Arpit Singh Streak Stats" />
-    </td>
-  </tr>
-</table>
+
 
 
 

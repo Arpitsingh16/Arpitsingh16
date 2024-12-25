@@ -228,9 +228,10 @@
 
 
 
-  <tr>
+  <tr align="center">
+<td width="60%">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitsingh16&" alt="Arpit Singh" />
-  </tr>
+    </td>  </tr>
 
 
 

@@ -239,6 +239,27 @@
 
 
 
+<h3 align="left">📊 GitHub Activity:</h3>
+<table>
+  <tr>
+    <td width="60%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arpitsingh16&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Arpit Singh GitHub Stats" />
+    </td>
+    <td width="40%">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arpitsingh16&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Arpit Singh Top Languages" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpitsingh16&theme=highcontrast&ring=7A7ADB&fire=7A7ADB&currStreakLabel=7A7ADB&currStreakNum=7A7ADB&sideNums=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3&background=0,000000,130F40" alt="Arpit Singh Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 <div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpitsingh16&label=Profile%20views&color=0e75b6&style=flat" alt="Arpitsingh16" /> </p>
 </div>

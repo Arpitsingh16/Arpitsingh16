@@ -1,7 +1,5 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-
-<br><br>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
+<br>
 <h1 align="left">👋 Hi, I'm <a href="https://arpitsingh16.github.io/Portfolio/" target="_blank"> Arpit Singh </a></h1>
 <p align="left">A passionate Full Stack Developer with a strong foundation in Computer Science and a keen to learn new tech.</p>
 
@@ -9,7 +7,8 @@
 - 📫 How to reach me: [arpitchauhan1607@gmail.com](arpitchauhan1607@gmail.com)
 - 👀 I’m interested in Java, Web Development, DBMS, SQL
 - 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://arpitsingh16.github.io/Portfolio/)! 💻❤️
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<br>
 <h2 align="left">Hi 👋! My name is Arpit Kumar Singh and I'm a fresher, from Ranchi. My passion for technology and drive to constantly improve has led me to excel in my field, and I'm excited to continue growing and developing my skills.</h2>
 
 <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-java-azure.svg" width="55px"></img>&nbsp;&nbsp;
